@@ -1,0 +1,2 @@
+second file - created outside cmd prompt
+change 1 file2
